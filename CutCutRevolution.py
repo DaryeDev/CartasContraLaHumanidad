@@ -20,16 +20,7 @@ cahJSON = {
   "name": "Cartas contra la Humanidad",
   "codeName": "cahESP",
   "whiteCards": [],
-  "blackCards": [
-    {
-      "text": "Why did the chicken cross the road?",
-      "pick": 1
-    },
-    {
-      "text": "You like _? Well _&trade; is better!",
-      "pick": 2
-    }
-  ]
+  "blackCards": []
 }
 
 for page in doc:
